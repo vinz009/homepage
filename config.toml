@@ -1,16 +1,16 @@
 baseURL = 'https://vinz009.github.io/homepage/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Example Graysx Site'
+title = 'Vinz'
 
 ## Site Settings
 [params]
-logo = "assets/img/logo.webp"
+logo = "assets/img/vinz-logo.png"
 favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
+address = "123 Bacolod, Western Visayas"
+email = "hello@example.com"
 phone = "123456"
 
 # Socials

@@ -1,16 +1,22 @@
 # Main Title
 main:
   header:
-    title : "Graysx Theme" # Title Text
-    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    title : "lamharon" # Title Text
+    description : "n./lam-ha-ron/ - a hiligaynon, ilonggo term for
+                  young, immature, inexperienced" # Title Desc
     button:
-      text: "Learn More" # Button Text
+      text: "Tara!" # Button Text
       url: "#about" # Button URL
 
 # About
 about:
-  title: "About us"
-  desc: "Max Ducim Qua Labo Pa Adre Nam Ased Di Ullam Ess Num Minim Quorecu Re Iur Ipsam Autemo Autem Max Iurer Ut Enim Praese Ips Fugia Ne Dig Assumen Cul Ipsum Velit Magna Inl Odio Enimodi Nonve Sunti Tem Incidu Velqui Lauda Assume Volupt Nih Es Autem Officia Culpa Impedit Harum Blandi Si Quis Dol Facilis Verodo Tot Quib Quoden"
+  title: "About me"
+  desc: "Hi! I'm Vincent, a career shifter coming from health industry.
+        Being new to the world that I known of, to break barriers 
+        in the forefront of software engineering. Having tech stack primary 
+        for frontend, but 
+        planning to venture out towards backend to have VPS 
+        setup eventually becoming cloud native." 
   button:
     enable: true
     text: "Button"
@@ -19,14 +25,27 @@ about:
 
 projects:
   card1:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/bg-masthead.jpg"
+    title: "Personal Homepage"
+    text: "Built from Hugo. Used grayx theme. 
+        Nice background image to sip some coffee..."
+    img: "assets/img/homepage.png"
+    deploy: "https://vinz009.github.io/homepage/"
+    source: "https://github.com/vinz009/homepage/"
+    button:
+      enable: true
   card2:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-01.jpg"
+    title: "Weather-App"
+    text: "Lagay ng Panahon App. Gives weather info on current location. 
+      Built with Reactjs and Tailwindcss.  Added fancy animations... I guess???....
+          Hey! input Berlin. Let's check how's the weather there??"
+    img: "assets/img/weather-app.png"
+    deploy: "https://vinz009.github.io/weather-app/"
+    source: "https://github.com/vinz009/weather-app/"
   card3:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-02.jpg"
+    title: "Guess The Pic"
+    text: "Hula ooOps. A guessing game. Again with fancy animation because who said it's not cool??
+      A nine option mystery box that point to the exact location of my favorite
+          pokemon character... I think?..hmmm. "
+    img: "assets/img/guess-the-pic.png"
+    deploy: "https://vinz009.github.io/guess-the-pic/"
+    source: "https://github.com/vinz009/guess-the-pic/"
