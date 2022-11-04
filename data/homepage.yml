@@ -19,7 +19,7 @@ about:
         setup eventually becoming cloud native." 
   button:
     enable: true
-    text: "Button"
+    text: "Home"
     url: "#"
   image: "assets/img/ipad.png"
 
